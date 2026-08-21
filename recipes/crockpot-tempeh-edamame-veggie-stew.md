@@ -11,8 +11,8 @@ Per serving (approx): 28g protein, 15g net carbs
 - 1 small red onion, diced (or 1/2 large red onion)
 - 3 cloves garlic, diced (or appropriate pre-diced refrigerated garlic alternative)
 - 1 large green bell pepper, diced
-- 2½ cups cauliflower, cut into bite-sized pieces
-- 2 cups broccoli florets
+- 1 head cauliflower, cut into bite-sized pieces. Remove and discard stems
+- 1 head broccoli, remove and discard stems
 - 8 oz shelled edamame (frozen is fine)
 - 2 cups water
 - 1 low-sodium beefless bouillon cube
