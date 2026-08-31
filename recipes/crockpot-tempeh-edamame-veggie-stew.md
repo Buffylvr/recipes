@@ -1,5 +1,7 @@
 # Crockpot Tempeh & Edamame Veggie Stew
 
+> Ingredients need adjusted — last run lacked flavor.
+
 Servings: 4
 Prep time: 15 min | Cook time: 2.5-6 hr (slow cooker)
 
@@ -32,6 +34,4 @@ Per serving (approx): 28g protein, 15g net carbs
    - 6a. Scoop out a cup or so of cooked cauliflower, mash it with a fork or potato masher, and stir it back in. This thickens the broth without added starch. For extra-thick, mash more or use an immersion blender on part of the stew.
 
 ## Notes
-
-- Ingredients need adjusted — last run lacked flavor.
 
