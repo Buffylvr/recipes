@@ -1,6 +1,6 @@
 # Edamame & Two-Bean Chili
 
-> Note: last batch had hard/crunchy edamame. Try holding back the diced tomatoes and tomato paste and stirring them in during just the last 45-60 min of cooking, instead of adding them at the start with everything else. Reasoning: acid (from the tomatoes) slows down how much beans and legumes soften as they cook, so cooking the edamame alongside the tomato products for the full 3-8 hours likely kept it firmer than it should've been.
+> Note: last batch had hard/crunchy edamame. This version holds the diced tomatoes and tomato paste back until the last 45-60 min of cooking instead of adding them at the start. Reasoning: acid (from the tomatoes) slows down how much beans and legumes soften as they cook, so cooking the edamame alongside the tomato products for the full 3-8 hours likely kept it firmer than it should've been. Vegetable broth is added upfront in their place so there's still enough liquid during the early cook.
 
 Servings: 6
 Prep time: 20 min | Cook time: 3-4 hr (HIGH) or 6-8 hr (LOW), slow cooker
@@ -24,13 +24,14 @@ Per serving (approx): 34g protein, 33g net carbs
 - 3 tablespoons cumin
 - 1/2 teaspoon black pepper
 - 2 tablespoons butter
+- 1 to 1.5 cups low-sodium vegetable broth
 
 ## Instructions
 
 1. Brown the plant-based meat substitute in a skillet over medium heat with the butter and 3 cloves of the garlic (half), a few minutes, until browned.
-2. Add the edamame, black beans, kidney beans, diced tomatoes, bell pepper, onion, remaining 3 cloves garlic, browned meat substitute, tomato paste, green chiles, Worcestershire sauce, chili powder, cumin, and black pepper to the crockpot.
-3. Stir everything together.
-4. Cook on LOW for 6-8 hours or HIGH for 3-4 hours.
+2. Add the edamame, black beans, kidney beans, bell pepper, onion, remaining 3 cloves garlic, browned meat substitute, green chiles, Worcestershire sauce, chili powder, cumin, black pepper, and vegetable broth to the crockpot. Stir to combine.
+3. Cook on LOW for 6-8 hours or HIGH for 3-4 hours.
+4. During the last 45-60 minutes of cooking, stir in the diced tomatoes and tomato paste.
 5. Stir before serving and adjust seasoning to taste.
 
 ## Notes
