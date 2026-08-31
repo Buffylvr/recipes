@@ -1,5 +1,7 @@
 # Edamame & Two-Bean Chili
 
+> Note: last batch had hard/crunchy edamame. Try holding back the diced tomatoes and tomato paste and stirring them in during just the last 45-60 min of cooking, instead of adding them at the start with everything else. Reasoning: acid (from the tomatoes) slows down how much beans and legumes soften as they cook, so cooking the edamame alongside the tomato products for the full 3-8 hours likely kept it firmer than it should've been.
+
 Servings: 6
 Prep time: 20 min | Cook time: 3-4 hr (HIGH) or 6-8 hr (LOW), slow cooker
 
