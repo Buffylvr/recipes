@@ -33,3 +33,5 @@ Per serving (approx): 28g protein, 15g net carbs
 
 ## Notes
 
+- Ingredients need adjusted — last run lacked flavor.
+
