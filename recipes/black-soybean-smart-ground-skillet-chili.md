@@ -18,7 +18,6 @@ Per serving (approx): 27g protein, 14g net carbs
 - 1 cup low-sodium vegetable broth
 - 2 tablespoons chili powder
 - 1 teaspoon cumin
-- 1 teaspoon smoked paprika
 - 1/2 teaspoon garlic powder
 - 1/4 teaspoon cayenne (optional)
 - Salt and black pepper to taste
@@ -29,7 +28,7 @@ Per serving (approx): 27g protein, 14g net carbs
 
 1. Heat olive oil in a large skillet or pot over medium heat. Add onion and bell pepper, cook 4-5 min until softened.
 2. Add the Smart Ground and garlic to the pan. Cook 3-4 min, breaking up any clumps with a spatula, until evenly browned.
-3. Stir in chili powder, cumin, smoked paprika, garlic powder, and cayenne (if using); cook 1 min until fragrant.
+3. Stir in chili powder, cumin, garlic powder, and cayenne (if using); cook 1 min until fragrant.
 4. Add black soybeans, diced tomatoes, tomato paste, and broth. Stir to combine.
 5. Bring to a simmer, reduce heat, and cook uncovered 15-20 min, stirring occasionally, until slightly thickened.
 6. Remove from heat and stir in lime juice. Season with salt and pepper to taste.
